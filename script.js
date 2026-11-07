@@ -2,9 +2,6 @@
  * NovaSphere — Modern Website Interactive Logic
  * Features:
  *  - Light / Dark Mode Toggle with LocalStorage persistence
- *  - Responsive Mobile Navigation Drawer
- *  - Active Section Highlighting on Scroll
- *  - Interactive FAQ Accordion
  *  - Contact Form Validation & Toast Notification
  *  - Auto Footer Year
  */
